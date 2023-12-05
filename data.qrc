@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons8_usb_connector_32.png</file>
+        <file>Copie de TERMINAL.png</file>
+        <file>icons8_synchronize_32.png</file>
+    </qresource>
+</RCC>
